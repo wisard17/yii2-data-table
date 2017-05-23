@@ -1,0 +1,36 @@
+{
+    "name": "yiisoft/yii2-data-table",
+    "description": "The DataTable extension for the Yii framework",
+    "keywords": ["yii2", "DataTable"],
+    "type": "yii2-extension",
+    "license": "Apache-2.0",
+    "support": {
+        "issues": "https://github.com/wisard17/yii2-data-table/issues",
+        "wiki": "https://github.com/wisard17/yii2-data-table/wiki",
+        "source": "https://github.com/wisard17/yii2-data-table"
+    },
+    "authors": [
+        {
+            "name": "Wisard Kalengkongan",
+            "email": "wisard.kalengkongan@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": ">=2.0.6",
+        "datatables/datatables": ">=1.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "yii\\datatable\\": ""
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        },
+        "asset-installer-paths": {
+            "npm-asset-library": "vendor/npm",
+            "bower-asset-library": "vendor/bower"
+        }
+    }
+}
