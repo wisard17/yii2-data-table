@@ -1,5 +1,5 @@
 {
-    "name": "yiisoft/yii2-data-table",
+    "name": "wisard17/yii2-data-table",
     "description": "The DataTable extension for the Yii framework",
     "keywords": ["yii2", "DataTable"],
     "type": "yii2-extension",
