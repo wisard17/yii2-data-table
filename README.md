@@ -15,7 +15,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist wisard17/yii2-data-table
+composer require --prefer-dist wisard17/yii2-data-table
 ```
 
 or add
