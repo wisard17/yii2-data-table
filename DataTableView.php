@@ -6,7 +6,7 @@
  * Time: 10:04 AM
  */
 
-namespace yii\datatable;
+namespace wisard17\datatable;
 
 use Yii;
 use yii\base\InvalidConfigException;

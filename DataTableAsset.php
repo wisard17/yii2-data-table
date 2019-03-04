@@ -1,9 +1,12 @@
 <?php
 /**
- *
+ * Created by.
+ * User: wisard17
+ * Date: 5/23/2017
+ * Time: 10:04 AM
  */
 
-namespace yii\datatable;
+namespace wisard17\datatable;
 
 use yii\web\AssetBundle;
 

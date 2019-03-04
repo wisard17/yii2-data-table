@@ -6,7 +6,7 @@
  * Time: 10:37 AM
  */
 
-namespace yii\datatable;
+namespace wisard17\datatable;
 
 /**
  * @author Wisard Kalengkongan <wisard.kalengkongan@gmail.com>

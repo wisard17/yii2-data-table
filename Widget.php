@@ -1,7 +1,7 @@
 <?php
 
 
-namespace yii\datatable;
+namespace wisard17\datatable;
 
 /**
  * \yii\datatable\Widget .
