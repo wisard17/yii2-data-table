@@ -26,7 +26,7 @@
     },
     "extra": {
         "branch-alias": {
-            "master": "1.x"
+            "master": "1.x-dev"
         },
         "asset-installer-paths": {
             "npm-asset-library": "vendor/npm",
