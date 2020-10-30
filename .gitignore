@@ -21,3 +21,4 @@ Thumbs.db
 
 # composer vendor dir
 /vendor
+composer.lock
